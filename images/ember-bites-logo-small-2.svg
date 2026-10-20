@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120" role="img" aria-labelledby="title desc">
+  <title id="title">Ember Bites logo</title>
+  <desc id="desc">A compact orange and cream shawarma logo on a charcoal background.</desc>
+  <rect width="360" height="120" rx="12" fill="#242323"/>
+  <g transform="translate(18 15)">
+    <path d="M36 5 C20 22 12 36 14 51 C16 64 26 77 38 83 C48 70 57 58 58 44 C59 29 48 15 36 5Z" fill="#ff6a00"/>
+    <path d="M31 31 C20 29 18 39 22 47 L32 79 Q35 85 41 79 L53 47 C56 38 48 30 39 32 L31 31Z" fill="#f7e8c8" stroke="#e6d4ae" stroke-width="2"/>
+    <path d="M25 42 Q35 35 47 43 L42 49 Q34 45 28 50Z" fill="#d65a24"/>
+    <path d="M29 55 L43 50 M31 64 L41 60 M34 73 L39 70" fill="none" stroke="#b7a98c" stroke-width="3" stroke-linecap="round"/>
+    <path d="M27 40 l5 -2 4 4 -5 2Z M38 40 l5 1 2 4 -5 -1Z" fill="#4f6b3d"/>
+  </g>
+  <text x="91" y="61" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="800" font-style="italic" fill="#ff6a00" letter-spacing="-1.6">Ember</text>
+  <text x="132" y="94" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" fill="#f7e8c8" letter-spacing="1.5">BITES</text>
+  <path d="M130 101 Q191 109 253 100" fill="none" stroke="#ff6a00" stroke-width="3" stroke-linecap="round"/>
+</svg>

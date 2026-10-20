@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" role="img" aria-labelledby="title desc">
+  <title id="title">Ember Bites</title>
+  <desc id="desc">Ember Bites shawarma, grills and more logo with an orange flame and cream wrap.</desc>
+  <defs>
+    <linearGradient id="flame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF9A24"/>
+      <stop offset="1" stop-color="#F04A12"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(12 14)">
+    <path d="M63 6 C72 31 45 39 53 59 C58 72 73 77 72 93 C70 111 51 122 33 113 C13 103 16 81 28 65 C39 49 46 32 43 18 C53 27 57 37 57 47 C69 34 68 20 63 6Z" fill="url(#flame)"/>
+    <path d="M48 55 C35 68 31 78 34 90 C36 100 45 105 54 101 C65 96 64 85 56 77 C51 72 49 64 48 55Z" fill="#FFF2DC"/>
+    <path d="M43 74 C48 80 50 86 46 92" fill="none" stroke="#F47721" stroke-width="4" stroke-linecap="round"/>
+    <path d="M42 61 Q52 48 62 61 L68 78 Q55 88 42 78Z" fill="#FFF2DC" stroke="#20201E" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M43 61 Q52 52 62 61 L65 66 Q53 72 44 66Z" fill="#5A8A35"/>
+    <path d="M45 62 Q51 57 56 62 L60 65 L54 68 L48 66Z" fill="#7A3021"/>
+    <circle cx="60" cy="63" r="2.5" fill="#F47721"/>
+  </g>
+  <text x="104" y="84" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing="-1.8" fill="#FFF2DC">Ember</text>
+  <text x="254" y="84" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing="-1.8" fill="#F47721">Bites</text>
+  <text x="108" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3.3" fill="#FFF2DC">SHAWARMA <tspan fill="#F47721">•</tspan> GRILLS <tspan fill="#F47721">•</tspan> MORE</text>
+</svg>
